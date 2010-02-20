@@ -2,4 +2,4 @@
 
 = Introduction =
 
-datanucleus-store-mongodb is a DataNucleus Store for MongoDB. It supports very simple write and read suppor and is far away complete.
+datanucleus-store-mongodb is a DataNucleus Store for MongoDB. It supports very simple write and read support and is far away complete.
