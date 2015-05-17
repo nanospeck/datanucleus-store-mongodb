@@ -1,0 +1,1 @@
+datanucleus-store-mongodb is a MongoDB Store for DataNucleus. It supports very simple write and read support and is far away complete.
